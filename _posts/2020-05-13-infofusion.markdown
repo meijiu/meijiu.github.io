@@ -2,7 +2,7 @@
 layout: post
 title:  "Information Orthogonality"
 date:   2019-05-29 22:21:59 +00:00
-image: ../images/orthog.png
+image: /images/orthog.png
 course: CS 690OP
 author: "Joie Yeahuay Wu"
 category: UMass
