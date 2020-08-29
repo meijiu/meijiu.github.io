@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "FLARe: Forecasting by Learning Anticipated Representations"
+date:   2019-05-29 22:21:59 +00:00
+image: /images/flare2019.png
+categories: research
+author: "Joie Yeahuay Wu"
+authors: "Surya Teja Devarakonda*, <strong>Joie Yeahuay Wu</strong>*, Yi Ren Fung, Madalina Fiterau"
+venue: "MLHC (Machine Learning for Healthcare)"
+arxiv: https://arxiv.org/abs/1904.08930
+code: https://github.com/Information-Fusion-Lab-Umass/flare
+---
+A novel time series forecasting approach using LSTMs which predicts representations across the forecasting horizon.
+
