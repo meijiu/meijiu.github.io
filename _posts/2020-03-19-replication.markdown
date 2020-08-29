@@ -2,7 +2,7 @@
 layout: post
 title:  "Alzheimer's Disease Brain MRI Classification: Challenges and Insights"
 date:   2019-05-28 22:21:59 +00:00
-image: /images/comprehensive2019.png
+image: ../images/comprehensive2019.png
 categories: research
 author: "Joie Yeahuay Wu"
 authors: Yi Ren Fung, Ziqian Guan, Ritesh Kumar, <strong> Joie Yeahuay Wu </strong>
